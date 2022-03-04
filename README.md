@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jarodalexander
-- 👀 I’m interested in geospatial/temporospatial statistical analysis, probability, machine learning
-- 🌱 I’m currently learning multivariate statistical analysis using SAS
-- 💞️ I’m looking to collaborate on emerging sports statistics using R, Python, SAS, Minitab, & SQL.
+- 👀 I live in San Diego, CA, attend SDSU (B.S. in Statistics), & I'm an Air Force vet (6yrs/IT Admin).
+- 🌱 I’m interested in geospatial/temporospatial statistical analysis, statistics mathematics, & currently learning text-analysis @ SDSU.
+- 💞️ I’m looking to collaborate on data science projects in order to gain valuable experience. I'm familiar with R, Python, SAS, & SQL.
 - 📫 How to reach me - email: jarod.clemons@gmail.com
 
 <!---
